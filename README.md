@@ -1,6 +1,6 @@
-# Pomodoro Timer
+# Fomoduct
 
-A simple pomodoro timer web application.
+A simple and effective focus & productivity web application using the Pomodoro Technique.
 
 ## 🚀 Cài đặt
 
